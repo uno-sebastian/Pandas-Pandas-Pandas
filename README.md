@@ -1,5 +1,10 @@
 # Sebastian's Python Challenge - Pandas, Pandas, Pandas
 
+## pandas Recommendation
+* Use pandas.concat as opposed to DataFrame.append as there is more control
+* Use pandas.merge as opposed to DataFrame.join as there is more control
+* [refrence](https://www.youtube.com/watch?v=iYWKfUOtGaw&t=81s)
+
 ## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)

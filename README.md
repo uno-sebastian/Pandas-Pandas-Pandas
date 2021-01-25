@@ -5,7 +5,7 @@
 * Use pandas.merge as opposed to DataFrame.join as there is more control
 * [refrence](https://www.youtube.com/watch?v=iYWKfUOtGaw&t=81s)
 
-## Heroes of Pymoli
+## [Heroes of Pymoli](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb)
 
 ![Fantasy](Images/Fantasy.png)
 
@@ -72,7 +72,7 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-## PyCitySchools
+## [PyCitySchools](PyCitySchools/PyCitySchools_starter.ipynb)
 
 ![Education](Images/education.png)
 

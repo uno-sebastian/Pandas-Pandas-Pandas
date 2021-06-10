@@ -1,4 +1,4 @@
-# Sebastian's Python Challenge - Pandas, Pandas, Pandas
+# Pandas, Pandas, Pandas
 
 ## pandas Recommendation
 * Use pandas.concat as opposed to DataFrame.append as there is more control

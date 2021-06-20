@@ -8,7 +8,7 @@ This project was made to try and push the manipulation of data with pandas in a 
 * Use pandas.merge as opposed to DataFrame.join as there is more control
 * [refrence](https://www.youtube.com/watch?v=iYWKfUOtGaw&t=81s)
 
-## [Heroes of Pymoli](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb)
+## [Heroes of Pymoli](HeroesOfPymoli/HeroesOfPymoli_Analysis.ipynb)
 
 ![Fantasy](Images/Fantasy.png)
 
@@ -75,7 +75,7 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-## [PyCitySchools](PyCitySchools/PyCitySchools_starter.ipynb)
+## [PyCitySchools](PyCitySchools/PyCitySchools_Analysis.ipynb)
 
 ![Education](Images/education.png)
 

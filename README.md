@@ -3,6 +3,9 @@
 ## Purpose:
 This project was made to try and push the manipulation of data with pandas in a variety of ways. The data coming in is from two different fields to add to the challenge, but the goals are clearly spelled out. Truth be told, this was my first in depth exploration of the Pandas module, but I had a ton of fun trying to master core concepts!
 
+![Sample Heroes of Pymoli](Images/Heros_Sample.PNG)
+![Sample PyCitySchools](Images/Schools_Sample.PNG)
+
 ## pandas Recommendation
 * Use pandas.concat as opposed to DataFrame.append as there is more control
 * Use pandas.merge as opposed to DataFrame.join as there is more control

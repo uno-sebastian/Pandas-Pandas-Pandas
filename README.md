@@ -1,11 +1,14 @@
 # Pandas, Pandas, Pandas
 
+## Purpose:
+This project was made to try and push the manipulation of data with pandas in a variety of ways. The data coming in is from two different fields to add to the challenge, but the goals are clearly spelled out. Truth be told, this was my first in depth exploration of the Pandas module, but I had a ton of fun trying to master core concepts!
+
 ## pandas Recommendation
 * Use pandas.concat as opposed to DataFrame.append as there is more control
 * Use pandas.merge as opposed to DataFrame.join as there is more control
 * [refrence](https://www.youtube.com/watch?v=iYWKfUOtGaw&t=81s)
 
-## [Heroes of Pymoli](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb)
+## [Heroes of Pymoli](HeroesOfPymoli/HeroesOfPymoli_Analysis.ipynb)
 
 ![Fantasy](Images/Fantasy.png)
 
@@ -72,7 +75,7 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-## [PyCitySchools](PyCitySchools/PyCitySchools_starter.ipynb)
+## [PyCitySchools](PyCitySchools/PyCitySchools_Analysis.ipynb)
 
 ![Education](Images/education.png)
 
